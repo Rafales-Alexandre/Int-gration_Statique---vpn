@@ -3,9 +3,9 @@
 
 
 
-# Intégration statique Saas
+# Intégration statique Vpn
 
-Ce repository contient le starter kit du projet intégration statique Saas disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter kit du projet intégration statique Vpn disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
@@ -18,7 +18,7 @@ Prenez les fichiers SVG dans le dossier Figma puis glissez/déposez dans votre n
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integrasion_Statique-Saas/blob/main/img/SaaS Landing Page.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_Statique---vpn/blob/main/img/Desktop - 2.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
@@ -28,7 +28,6 @@ Les propositions d'amélioration sont les bienvenues, venez en discuter avec nou
 
 ## Copyright & License
 
-Maquette produite par Naitcréative Https://Naitcreative.com// </br>
 Copyright © 2020-2022 Microlead. Tous droits réservés
 
 ## Suivre
